@@ -16,3 +16,6 @@ I just added a buidl function on jenkins to build my project any time i push thi
 trying the auto build for a second time
 
 configured jenkins to publish to my nfs server over ssh
+
+checking again
+
