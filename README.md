@@ -8,3 +8,7 @@ This is a Dockerfile to build a debian based container image running nginx and p
 | Docker Tag | GitHub Release | Nginx Version | PHP Version | Debian Version |
 |-----|-------|-----|--------|--------|
 | latest | master Branch |1.17.2 | 7.3.8 | buster |
+
+
+
+I just added a buidl function on jenkins to build my project any time i push this repo
