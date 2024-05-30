@@ -17,7 +17,5 @@ trying the auto build for a second time
 
 configured jenkins to publish to my nfs server over ssh
 
-checking again
 
-checking again
 
