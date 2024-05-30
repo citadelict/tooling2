@@ -11,4 +11,6 @@ This is a Dockerfile to build a debian based container image running nginx and p
 
 
 
-I just added a buidl function on jenkins to build my project any time i push this repo
+I just added a buidl function on jenkins to build my project any time i push this 
+
+rying the auto build for a second time
