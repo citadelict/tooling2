@@ -25,5 +25,3 @@ final checks
 
 
 
-
-chcking build over ssh for my jenkins server
