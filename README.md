@@ -27,3 +27,4 @@ final checks
 
 making changes
 checking again
+checking to send artifacts to nfs server
