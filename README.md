@@ -21,3 +21,9 @@ configured jenkins to publish to my nfs server over ssh
 checking again if it works
 
 final checks
+
+
+
+
+
+chcking build over ssh for my jenkins server
