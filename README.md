@@ -22,6 +22,7 @@ checking again if it works
 
 final checks
 
+# Now its time to publish to nfs server
 
 
 
