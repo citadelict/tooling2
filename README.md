@@ -30,6 +30,3 @@ checking again
 checking to send artifacts to nfs server
 final checks
 
-
-
-# Introduction to jenkins with steg technology hub
