@@ -32,3 +32,4 @@ checking to send artifacts to nfs server
 final checks
 
 # uploading artifacts to our nfs server
+Trigerring another build
